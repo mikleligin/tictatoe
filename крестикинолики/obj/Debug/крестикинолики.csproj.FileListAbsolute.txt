@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\крестикинолики\крестикинолики\bin\Debug\крестикинолики.exe.config
+C:\Users\User\source\repos\крестикинолики\крестикинолики\bin\Debug\крестикинолики.exe
+C:\Users\User\source\repos\крестикинолики\крестикинолики\bin\Debug\крестикинолики.pdb
+C:\Users\User\source\repos\крестикинолики\крестикинолики\obj\Debug\крестикинолики.csprojAssemblyReference.cache
+C:\Users\User\source\repos\крестикинолики\крестикинолики\obj\Debug\крестикинолики.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\крестикинолики\крестикинолики\obj\Debug\крестикинолики.exe
+C:\Users\User\source\repos\крестикинолики\крестикинолики\obj\Debug\крестикинолики.pdb
